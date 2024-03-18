@@ -1,0 +1,260 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #000563;
+    color: white;
+    font-family: IBM Plex Mono,Menlo,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier,"monospace";
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #FAF9F7;
+}
+
+.profile {
+    padding-top: 8px;
+}
+
+img[src*="meer_icon.png"] {
+    width: 40px;
+    height: 40px;
+    zoom: 50%;
+}
+
+img[src*="logo_white.png"] {
+    zoom: 50%;
+    padding-top: 25px;
+    margin-left: 30px;
+    
+}
+
+img[src*="profile.png"]{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    zoom: 70%;
+    object-fit: cover;
+}
+
+.foto {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: auto;
+}
+
+.drie {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 4px;
+    margin-right: 20px;
+}
+
+.credits {
+    display: flex;
+    align-items: center;
+    zoom: 27%;
+    margin-left: 60px;
+}
+
+img[src*="credits_icon.png"] {
+    display: flex;
+    align-items: center;
+}
+
+.level {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    height: 30px;
+    background-color: #87dbe5;
+    border: #87dbe5;
+    border-radius: 5px;
+    font-size: small;
+}
+
+.level span {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.home {
+    display: flex;
+    align-items: center;
+}
+
+.home img {
+    padding-right: 12px;
+}
+
+.rechts {
+    display: flex;
+    align-items: center;
+}
+
+.universe {
+    display: flex;
+    align-items: center;
+    text-align: right;
+    zoom: 27%;
+    margin-left: 70px;
+}
+
+.reviews {
+    display: flex;
+    align-items: center;
+    text-align: right;
+    zoom: 31%;
+    margin-left: 50px;
+}
+
+.doelen {
+    display: flex;
+    align-items: center;
+    text-align: right;
+    zoom: 31%;
+    margin-left: 100px;
+}
+
+.leaderboard {
+    display: flex;
+    align-items: center;
+    text-align: right;
+    zoom: 31%;
+    margin-left: 130px;
+}
+
+img[src*="leaderboard_icon.png"] {
+    margin-right: 16px;
+}
+
+.meer {
+    display: flex;
+    align-items: center;
+    text-align: right;
+    zoom: 125%;
+    margin-left: 20px;
+}
+
+img[src*="home_icon.png"] {
+    zoom: 18%;
+    display: flex;
+    justify-content: end;
+}
+
+.feedback {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    background-color: white;
+    border: solid 2px white;
+    border-radius: 5px;
+    padding: 0 5px;
+    color: #57be8e;
+    height: 35px;
+}
+
+img[src*="feedback_icon.png"] {
+    display: flex;
+    zoom: 58%;
+}
+
+h1 {
+    font-family: IBM Plex Mono,Menlo,DejaVu Sans Mono,Bitstream Vera Sans Mono, Courier,"monospace";
+}
+
+table {
+    border: solid 1px rgb(229, 229, 229);
+    box-shadow: 0 0px 60px rgb(197, 197, 197);}
+
+th {
+    color: rgb(146, 146, 146);
+    padding-right: 109px;
+    padding-left: 8px;
+    
+}
+
+td {
+    border-top: 2px solid rgb(210, 210, 210);
+    height: 45px;
+    padding-left: 8px;
+}
+
+.minuten {
+    width: 100px;
+}
+
+.gecreerd {
+    width: 76px;
+}
+
+.vulin {
+    background-color: #57be8e;
+    border: solid 10px #57be8e;
+    border-radius: 5px;
+    color: white;
+    margin-right: 55px;
+
+}
+
+.bekijk {
+    background-color: #57be8e;
+    border: solid 10px #57be8e;
+    border-radius: 5px;
+    color: white;
+    margin-right: 54px;
+}
+
+.container {
+    display: flex;
+    margin: 0 15%;
+}
+
+.vak2 {
+    border: solid 1px rgb(229, 229, 229);
+    box-shadow: 0 0px 60px rgb(197, 197, 197);
+    height: 450px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.vak2  h1 {
+    display: flex;
+    justify-content: left;
+    font-size: x-large;
+}
+
+.vak2 p {
+    font-size: 16px;
+}
+
+img[src*="growth.png"] {
+    zoom: 75%;
+    margin-top: 0px;
+}
+
+.rechts1 {
+    font-family: IBM Plex Mono,Menlo,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier,"monospace";
+}
+
+.blauw {
+    display: flex;
+    color: #2497a5;
+    background-color: #2497a5;
+    border: solid 5px #2497a5;
+    border-radius: 5px;
+    zoom: 98%;
+    height: 20px;
+}
+
